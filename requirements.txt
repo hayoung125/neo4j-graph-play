@@ -1,0 +1,9 @@
+easydict==1.13
+pyyaml==6.0.2
+python-dotenv=1.0.1
+langchain==0.3.14
+langchain-openai==0.2.14
+neo4j==5.27.0
+langchain_neo4j==0.2.0
+neo4j-driver==5.27.0
+langchain_community==0.3.14
