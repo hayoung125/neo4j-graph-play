@@ -74,3 +74,10 @@ neo4j:
     "files.eol": "\n",
   }
 ```
+
+### conda env 환경 세팅
+```
+conda create -n neo4j python=3.12
+conda activate neo4j
+pip install -r requirements.txt
+```
